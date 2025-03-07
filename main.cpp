@@ -6,5 +6,8 @@ int main()
 {
     func1();
     func2();
+
+    printf("change\n");
+
     return 0;
 }
